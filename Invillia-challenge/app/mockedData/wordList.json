@@ -1,0 +1,4506 @@
+[
+  {
+    "id": 1,
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "phonetics": [
+      {
+        "text": "/sʌn/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sun-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9027502",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/sʌn/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sun-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1194290",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A star, especially when seen as the centre of any single solar system.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The light and warmth which is received from the sun.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Something like the sun in brightness or splendor.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Sunrise or sunset.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The nineteenth trump/major arcana card of the Tarot.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The thirty-first Lenormand card.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To expose to the warmth and radiation of the sun.",
+            "synonyms": ["apricate"],
+            "antonyms": [],
+            "example": "Beautiful bodies lying on the beach, sunning their bronzed limbs."
+          },
+          {
+            "definition": "To warm or dry in the sunshine.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To be exposed to the sun.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To expose the eyes to the sun as part of the Bates method.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["apricate"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "proper noun",
+        "definitions": [
+          {
+            "definition": "The star that the Earth revolves around and from which it receives light and warmth.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "word": "apple",
+    "phonetic": "/ˈæp.əl/",
+    "phonetics": [
+      {
+        "text": "/ˈæp.əl/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apple-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014262",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/ˈæp.əl/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apple-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=718877",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Any of various tree-borne fruits or vegetables especially considered as resembling an apple; also (with qualifying words) used to form the names of other specific fruits such as custard apple, rose apple, thorn apple etc.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The fruit of the Tree of Knowledge, eaten by Adam and Eve according to post-Biblical Christian tradition; the forbidden fruit.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A tree of the genus Malus, especially one cultivated for its edible fruit; the apple tree.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The wood of the apple tree.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(in the plural) Short for apples and pears, slang for stairs.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The ball in baseball.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "When smiling, the round, fleshy part of the cheeks between the eyes and the corners of the mouth.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A Native American or red-skinned person who acts and/or thinks like a white (Caucasian) person.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(ice hockey slang) An assist.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become apple-like.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To form buds.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "angel",
+    "phonetic": "/ˈeɪn.dʒəl/",
+    "phonetics": [
+      {
+        "text": "/ˈeɪn.dʒəl/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angel-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=562443"
+      },
+      {
+        "text": "/ˈeɪn.dʒəl/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angel-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1317466",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(Abrahamic tradition) One of the lowest order of such beings, below virtues.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A person having the qualities attributed to angels, such as purity or selflessness.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Thanks for making me breakfast in bed, you little angel."
+          },
+          {
+            "definition": "Attendant spirit; genius; demon.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(possibly obsolete) An official (a bishop, or sometimes a minister) who heads a Christian church, especially a Catholic Apostolic church.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An English gold coin, bearing the figure of the archangel Michael, circulated between the 15th and 17th centuries, and varying in value from six shillings and eightpence to ten shillings.",
+            "synonyms": ["angel-noble"],
+            "antonyms": []
+          },
+          {
+            "definition": "(originally Royal Air Force) An altitude, measured in thousands of feet.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Climb to angels sixty. (“ascend to 60,000 feet”)"
+          },
+          {
+            "definition": "An unidentified flying object detected by air traffic control radar.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An affluent individual who provides capital for a startup, usually in exchange for convertible debt or ownership equity; an angel investor.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The person who funds a show.",
+            "synonyms": ["backer"],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["errand-ghost", "angel-noble", "backer"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To support by donating money.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "word": "boy",
+    "phonetic": "/bɔːə/",
+    "phonetics": [
+      {
+        "text": "/bɔːə/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/boy-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=839306",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A young male.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Kate is dating a boy named Jim."
+          },
+          {
+            "definition": "(diminutive) A male child: a son of any age.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(diminutive) A male of any age, particularly one rather younger than the speaker.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A male of low station, (especially as pejorative) a worthless male, a wretch; a mean and dishonest male, a knave.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(now rare and usually offensive outside some Commonwealth nations) A male servant, slave, assistant, or employee, particularly:",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Any non-white male, regardless of age.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A male animal, especially, in affectionate address, a male dog.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Are you getting a boy cat or a girl cat?"
+          },
+          {
+            "definition": "A former low rank of various armed services; a holder of this rank.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Heroin.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(somewhat childish) A male (tree, gene, etc).",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "chap",
+          "guy",
+          "lad",
+          "mate",
+          "brat",
+          "knave",
+          "squirt",
+          "manservant",
+          "son"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To use the word “boy” to refer to someone.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Don't boy me!"
+          },
+          {
+            "definition": "To act as a boy (in allusion to the former practice of boys acting women's parts on the stage).",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "Exclamation of surprise, pleasure or longing.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Boy, I wish I could go to Canada!"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "girl",
+    "phonetic": "/ɡɵːl/",
+    "phonetics": [
+      {
+        "text": "/ɡɵːl/",
+        "audio": ""
+      },
+      {
+        "text": "/ɡɛəl/",
+        "audio": ""
+      },
+      {
+        "text": "/ɡɝl/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/girl-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=862121",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A female child, adolescent, or a young woman.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A young female animal.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(sometimes offensive) A woman, especially a young woman",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A female servant; a maid. (see usage notes)",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A queen (the playing card.)",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A term of endearment. (see usage notes)",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "One's girlfriend.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "One's daughter.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Your girl turned up on our doorstep."
+          },
+          {
+            "definition": "A roebuck two years old.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Cocaine, especially in powder form.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(somewhat childish) A female (tree, gene, etc).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A boy or man who is weak or sentimental.",
+            "synonyms": ["Jessie", "sissy", "wimp"],
+            "antonyms": [],
+            "example": "Don't be such a girl!"
+          }
+        ],
+        "synonyms": [
+          "daughter",
+          "girlie",
+          "lass",
+          "lassie",
+          "char",
+          "charlady",
+          "charwoman",
+          "maid",
+          "maiden",
+          "maidservant",
+          "womanservant",
+          "Jessie",
+          "sissy",
+          "wimp"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To feminize or girlify; to gender as a girl or as for girls.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(somewhat informal) To staff with or as a girl or girls.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+
+    "word": "paper",
+    "phonetic": "/ˈpeɪpə/",
+    "phonetics": [
+      {
+        "text": "/ˈpeɪpə/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paper-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023294",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/ˈpeɪpɚ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paper-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1113757",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A newspaper or anything used as such (such as a newsletter or listing magazine).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Wallpaper.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Wrapping paper.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(rock paper scissors) An open hand (a handshape resembling a sheet of paper), that beats rock and loses to scissors. It loses to lizard and beats Spock in rock-paper-scissors-lizard-Spock.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A written document, generally shorter than a book (white paper, term paper), in particular one written for the Government.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A written document that reports scientific or academic research and is usually subjected to peer review before publication in a scientific journal (as a journal article or the manuscript for one) or in the proceedings of a scientific or academic meeting (such as a conference, workshop, or symposium).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A scholastic essay.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A set of examination questions to be answered at one session.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Money.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A university course.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A paper packet containing a quantity of items.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "a paper of pins, tacks, opium, etc."
+          },
+          {
+            "definition": "A medicinal preparation spread upon paper, intended for external application.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "cantharides paper"
+          },
+          {
+            "definition": "A substance resembling paper secreted by certain invertebrates as protection for their nests and eggs.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Free passes of admission to a theatre, etc.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(by extension) The people admitted by free passes.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["bookfell"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To apply paper to.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to paper the hallway walls"
+          },
+          {
+            "definition": "To document; to memorialize.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "After they reached an agreement, their staffs papered it up."
+          },
+          {
+            "definition": "To fill (a theatre or other paid event) with complimentary seats.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "As the event has not sold well, we'll need to paper the house."
+          },
+          {
+            "definition": "To submit official papers to (a law court, etc.).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To give public notice (typically by displaying posters) that a person is wanted by the police or other authority.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To sandpaper.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To enfold in paper.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To paste the endpapers and flyleaves at the beginning and end of a book before fitting it into its covers.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Made of paper.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "paper bag; paper plane"
+          },
+          {
+            "definition": "Insubstantial (from the weakness of common paper)",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "paper tiger; paper gangster"
+          },
+          {
+            "definition": "Planned (from plans being drawn up on paper)",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "paper rocket; paper engine"
+          },
+          {
+            "definition": "Having a title that is merely official, or given by courtesy or convention.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "a paper baron; a paper lord"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "word": "father",
+    "phonetic": "/ˈfaːðə/",
+    "phonetics": [
+      {
+        "text": "/ˈfaːðə/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈfɑːðə(ɹ)/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/father-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=77606714",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/ˈfɑðɚ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/father-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=501788",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A (generally human) male who begets a child.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "My father was a strong influence on me."
+          },
+          {
+            "definition": "A male ancestor more remote than a parent; a progenitor; especially, a first ancestor.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A term of respectful address for an elderly man.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Come, father; you can sit here."
+          },
+          {
+            "definition": "A term of respectful address for a priest.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A person who plays the role of a father in some way.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "My brother was a father to me after my parents got divorced."
+          },
+          {
+            "definition": "The founder of a discipline or science.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Albert Einstein is the father of modern physics."
+          },
+          {
+            "definition": "Something that is the greatest or most significant of its kind.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Something inanimate that begets.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A senator of Ancient Rome.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["granddaddy", "mother"],
+        "antonyms": ["child", "daughter", "son", "mother"]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To be a father to; to sire.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To give rise to.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To act as a father; to support and nurture.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To provide with a father.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To adopt as one's own.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "word": "mother",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mother-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75833745",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/ˈmʌðə(ɹ)/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mother-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=813823"
+      },
+      {
+        "text": "/ˈmʌðɚ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mother-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1113599",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A (human) female who has given birth to a baby",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He had something of his mother in him."
+          },
+          {
+            "definition": "A human female who parents an adopted or fostered child",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A human female who donates a fertilized egg or donates a body cell which has resulted in a clone.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A pregnant female, possibly as a shortened form of mother-to-be.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Nutrients and oxygen obtained by the mother are conveyed to the fetus."
+          },
+          {
+            "definition": "A female parent of an animal.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The lioness was a mother of four cubs."
+          },
+          {
+            "definition": "A female ancestor.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A source or origin.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The Mediterranean was mother to many cultures and languages."
+          },
+          {
+            "definition": "Something that is the greatest or most significant of its kind. (See mother of all.)",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(when followed by a surname) A title of respect for one's mother-in-law.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Mother Smith, meet my cousin, Doug Jones."
+          },
+          {
+            "definition": "Any elderly woman, especially within a particular community.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Any person or entity which performs mothering.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The principal piece of an astrolabe, into which the others are fixed.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The female superior or head of a religious house; an abbess, etc.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Hysterical passion; hysteria; the uterus.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["father", "granddaddy", "grandfather", "metro-"],
+        "antonyms": ["child", "daughter", "offspring", "son", "father"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "word": "car",
+    "phonetic": "/kɑː/",
+    "phonetics": [
+      {
+        "text": "/kɑː/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/car-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014179",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/kɑɹ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/car-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=424729",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+            "synonyms": [
+              "auto",
+              "automobile",
+              "carriage",
+              "motor",
+              "motorcar",
+              "vehicle"
+            ],
+            "antonyms": [],
+            "example": "She drove her car to the mall."
+          },
+          {
+            "definition": "A wheeled vehicle, drawn by a horse or other animal; a chariot.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An unpowered unit in a railroad train.",
+            "synonyms": ["railcar", "wagon"],
+            "antonyms": [],
+            "example": "The conductor coupled the cars to the locomotive."
+          },
+          {
+            "definition": "An individual vehicle, powered or unpowered, in a multiple unit.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The 11:10 to London was operated by a 4-car diesel multiple unit."
+          },
+          {
+            "definition": "A passenger-carrying unit in a subway or elevated train, whether powered or not.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "From the frontmost car of the subway, he filmed the progress through the tunnel."
+          },
+          {
+            "definition": "A rough unit of quantity approximating the amount which would fill a railroad car.",
+            "synonyms": ["carload", "wagonload"],
+            "antonyms": [],
+            "example": "We ordered five hundred cars of gypsum."
+          },
+          {
+            "definition": "The moving, load-carrying component of an elevator or other cable-drawn transport mechanism.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Fix the car of the express elevator - the door is sticking."
+          },
+          {
+            "definition": "The passenger-carrying portion of certain amusement park rides, such as Ferris wheels.",
+            "synonyms": ["carriage"],
+            "antonyms": [],
+            "example": "The most exciting part of riding a Ferris wheel is when your car goes over the top."
+          },
+          {
+            "definition": "The part of an airship, such as a balloon or dirigible, which houses the passengers and control apparatus.",
+            "synonyms": ["basket", "gondola"],
+            "antonyms": []
+          },
+          {
+            "definition": "A sliding fitting that runs along a track.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The aggregate of desirable characteristics of a car.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Buy now! You can get more car for your money."
+          },
+          {
+            "definition": "A floating perforated box for living fish.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "auto",
+          "automobile",
+          "carriage",
+          "motor",
+          "motorcar",
+          "vehicle",
+          "basket",
+          "gondola",
+          "carload",
+          "wagonload",
+          "carriage",
+          "railcar",
+          "wagon"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "word": "hello",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75797336",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/həˈləʊ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9021983",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/həˈloʊ/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "\"Hello!\" or an equivalent greeting.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["greeting"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To greet with \"hello\".",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Hello, everyone."
+          },
+          {
+            "definition": "A greeting used when answering the telephone.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Hello? How may I help you?"
+          },
+          {
+            "definition": "A call for response if it is not clear if anyone is present or listening, or if a telephone conversation may have been disconnected.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Hello? Is anyone there?"
+          },
+          {
+            "definition": "Used sarcastically to imply that the person addressed or referred to has done something the speaker or writer considers to be foolish.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "You just tried to start your car with your cell phone. Hello?"
+          },
+          {
+            "definition": "An expression of puzzlement or discovery.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Hello! What’s going on here?"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": ["bye", "goodbye"]
+      }
+    ]
+  },
+  {
+    "id": 11,
+
+    "word": "door",
+    "phonetic": "/dɔː/",
+    "phonetics": [
+      {
+        "text": "/dɔː/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/door-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014370",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/dɔɹ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/door-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=658550",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I knocked on the vice president's door"
+          },
+          {
+            "definition": "Any flap, etc. that opens like a door.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "the 24 doors in an Advent calendar"
+          },
+          {
+            "definition": "(immigration) An entry point.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A means of approach or access.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Learning is the door to wisdom."
+          },
+          {
+            "definition": "A barrier.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Keep a door on your anger."
+          },
+          {
+            "definition": "A software mechanism by which a user can interact with a program running remotely on a bulletin board system. See BBS door.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To cause a collision by opening the door of a vehicle in front of an oncoming cyclist or pedestrian.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+
+    "word": "cloud",
+    "phonetic": "/klaʊd/",
+    "phonetics": [
+      {
+        "text": "/klaʊd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cloud-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014337",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/klaʊd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cloud-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=840635",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A rock; boulder; a hill.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A visible mass of water droplets suspended in the air.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Any mass of dust, steam or smoke resembling such a mass.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Anything which makes things foggy or gloomy.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Anything unsubstantial.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A dark spot on a lighter material or background.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A group or swarm, especially suspended above the ground or flying.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He opened the door and was greeted by a cloud of bats."
+          },
+          {
+            "definition": "An elliptical shape or symbol whose outline is a series of semicircles, supposed to resemble a cloud.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The comic-book character's thoughts appeared in a cloud above his head."
+          },
+          {
+            "definition": "(with \"the\") The Internet, regarded as an abstract amorphous omnipresent space for processing and storage, the focus of cloud computing.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A negative or foreboding aspect of something positive: see every cloud has a silver lining or every silver lining has a cloud.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Crystal methamphetamine.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A large, loosely-knitted headscarf worn by women.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become foggy or gloomy, or obscured from sight.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The glass clouds when you breathe on it."
+          },
+          {
+            "definition": "To overspread or hide with a cloud or clouds.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The sky is clouded."
+          },
+          {
+            "definition": "To make obscure.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "All this talk about human rights is clouding the real issue."
+          },
+          {
+            "definition": "To make less acute or perceptive.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The tears began to well up and cloud my vision."
+          },
+          {
+            "definition": "To make gloomy or sullen.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To blacken; to sully; to stain; to tarnish (reputation or character).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To mark with, or darken in, veins or sports; to variegate with colors.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to cloud yarn"
+          },
+          {
+            "definition": "To become marked, darkened or variegated in this way.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+
+    "word": "brother",
+    "phonetic": "/ˈbɹɐðɘ(ɹ)/",
+    "phonetics": [
+      {
+        "text": "/ˈbɹɐðɘ(ɹ)/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈbɹʌðə(ɹ)/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brother-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=813855"
+      },
+      {
+        "text": "/ˈbɹʌðɚ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brother-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=840343",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Son of the same parents as another person.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A male having at least one parent in common with another (see half-brother, stepbrother).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A male fellow member of a religious community, church, trades union etc.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I would like to thank the brother who just spoke."
+          },
+          {
+            "definition": "A form of address to a man.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Listen, brother, I don't know what you want, but I'm not interested."
+          },
+          {
+            "definition": "A black male.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Somebody, usually male, connected by a common cause or situation.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Someone who is a peer, whether male or female.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To treat as a brother.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "Expressing exasperation.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "We're being forced to work overtime? Oh, brother!"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 14,
+
+    "word": "sister",
+    "phonetic": "/ˈsɪs.tə/",
+    "phonetics": [
+      {
+        "text": "/ˈsɪs.tə/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sister-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9027412",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/ˈsɪs.tɚ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sister-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1157720",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A daughter of the same parents as another person; a female sibling.",
+            "synonyms": ["sis"],
+            "antonyms": ["brother"],
+            "example": "My sister is always driving me crazy."
+          },
+          {
+            "definition": "A female member of a religious order; especially one devoted to more active service; (informally) a nun.",
+            "synonyms": ["nun", "sistren"],
+            "antonyms": [],
+            "example": "Michelle left behind her bank job and became a sister at the local convent."
+          },
+          {
+            "definition": "Any butterfly in the genus Adelpha, so named for the resemblance of the dark-colored wings to the black habit traditionally worn by nuns.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A senior or supervisory nurse, often in a hospital.",
+            "synonyms": ["charge nurse"],
+            "antonyms": []
+          },
+          {
+            "definition": "Any woman or girl with whom a bond is felt through common membership of a race, profession, religion or organization, such as feminism.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Connie was very close to her friend Judy and considered her to be her sister."
+          },
+          {
+            "definition": "(sometimes capitalized) A black woman.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A form of address to a woman.",
+            "synonyms": ["darling", "dear", "lady", "love", "miss", "pet"],
+            "antonyms": [],
+            "example": "What’s up, sister?"
+          },
+          {
+            "definition": "A woman, in certain labour or socialist circles; also as a form of address.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Thank you, sister. I would like to thank the sister who just spoke."
+          },
+          {
+            "definition": "An entity that has a special or affectionate, non-hierarchical relationship with another.",
+            "synonyms": ["affiliate", "affiliated"],
+            "antonyms": [],
+            "example": "sister city"
+          },
+          {
+            "definition": "A node in a data structure that shares its parent with another node.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(usually attributively) Something in the same class.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "sister facility"
+          }
+        ],
+        "synonyms": [
+          "affiliate",
+          "affiliated",
+          "charge nurse",
+          "darling",
+          "dear",
+          "lady",
+          "love",
+          "miss",
+          "pet",
+          "nun",
+          "sistren",
+          "sis"
+        ],
+        "antonyms": ["brother"]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To strengthen (a supporting beam) by fastening a second beam alongside it.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I’m trying to correct my sagging floor by sistering the joists."
+          },
+          {
+            "definition": "To be sister to; to resemble closely.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "word": "guitar",
+    "phonetic": "/ɡɪˈtɑː(ɹ)/",
+    "phonetics": [
+      {
+        "text": "/ɡɪˈtɑː(ɹ)/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guitar-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=799943"
+      },
+      {
+        "text": "/ɡɪˈtɑɹ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guitar-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=866364",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Any type of musical instrument of the lute family, characterized by a flat back, along with a neck whose upper surface is in the same plane as the soundboard, with strings along the neck and parallel to the soundboard.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["axe", "gat"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To play the guitar.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "word": "beer",
+    "phonetic": "/bɛə/",
+    "phonetics": [
+      {
+        "text": "/bɛə/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beer-1-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729866",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/bɪə/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beer-1-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014279",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/bɪɹ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beer-1-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=678169",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Beer is brewed all over the world."
+          },
+          {
+            "definition": "A fermented extract of the roots and other parts of various plants, as spruce, ginger, sassafras, etc.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A solution produced by steeping plant materials in water or another fluid.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A glass, bottle, or can of any of the above beverages.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Can I buy you a beer?"
+          },
+          {
+            "definition": "A variety of the above beverages.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I haven't tried this beer before."
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To give beer to (someone)",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "word": "hi",
+    "phonetic": "/haɪ/",
+    "phonetics": [
+      {
+        "text": "/haɪ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hi-1-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9021999",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/haɪ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hi-1-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1221246",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The word \"hi\" used as a greeting.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I didn't even get a hi."
+          }
+        ],
+        "synonyms": ["greeting", "hello"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "A friendly, informal, casual greeting said when meeting someone.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Hi, how are you?"
+          },
+          {
+            "definition": "An exclamation to call attention.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Expressing wonder or derision.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["greetings", "hello"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "word": "open",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/open-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75900265",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/ˈəʊ.pən/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/open-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9028081",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/ˈoʊ.pən/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/open-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=867657",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Not closed",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Not physically drawn together, closed, folded or contracted; extended",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "an open hand; an open flower"
+          },
+          {
+            "definition": "Actively conducting or prepared to conduct business.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Banks are not open on bank holidays."
+          },
+          {
+            "definition": "Receptive.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I am open to new ideas."
+          },
+          {
+            "definition": "Public",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He published an open letter to the governor on a full page of the New York Times."
+          },
+          {
+            "definition": "Candid, ingenuous, not subtle in character.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The man is an open book."
+          },
+          {
+            "definition": "(of a formula) Having a free variable.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(of a set) Which is part of a predefined collection of subsets of X, that defines a topological space on X.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(of a walk) Whose first and last vertices are different.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(of a file, document, etc.) In current use; mapped to part of memory.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I couldn't save my changes because another user had the same file open."
+          },
+          {
+            "definition": "Not fulfilled.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I've got open orders for as many containers of red durum as you can get me."
+          },
+          {
+            "definition": "Not settled or adjusted; not decided or determined; not closed or withdrawn from consideration.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "an open question"
+          },
+          {
+            "definition": "(stringed instruments) Of a note, played without pressing the string against the fingerboard.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(wind instruments) Of a note, played without closing any finger-hole, key or valve.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Not of a quality to prevent communication, as by closing waterways, blocking roads, etc.; hence, not frosty or inclement; mild; used of the weather or the climate.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "an open winter"
+          },
+          {
+            "definition": "(Of correspondence) Written or sent with the intention that it may made public or referred to at any trial, rather than by way of confidential private negotiation for a settlement. (Opposite of \"without prejudice\")",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "You will observe that this is an open letter and we reserve the right to mention it to the judge should the matter come to trial."
+          },
+          {
+            "definition": "Uttered with a relatively wide opening of the articulating organs; said of vowels.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Uttered, as a consonant, with the oral passage simply narrowed without closure.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(of a syllable) That ends in a vowel; not having a coda.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Made public, usable with a free licence and without proprietary components.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Resulting from an incision, puncture or any other process by which the skin no longer protects an internal part of the body.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["free", "accessible", "unimpeded", "free"],
+        "antonyms": [
+          "closed",
+          "shut",
+          "checked",
+          "closed",
+          "closed-source",
+          "proprietary"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "word": "close",
+    "phonetic": "/kləʊz/",
+    "phonetics": [
+      {
+        "text": "/kləʊz/",
+        "audio": ""
+      },
+      {
+        "text": "/kloʊz/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/close-1-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=180112",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An end or conclusion.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "We owe them our thanks for bringing the project to a successful close."
+          },
+          {
+            "definition": "The manner of shutting; the union of parts; junction.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A grapple in wrestling.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The conclusion of a strain of music; cadence.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A double bar marking the end.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(travel) The time when checkin staff will no longer accept passengers for a flight.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["end", "finale"],
+        "antonyms": ["beginning", "start"]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "(physical) To remove a gap.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(social) To finish, to terminate.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To come or gather around; to enclose; to encompass; to confine.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To have a vector sum of 0; that is, to form a closed polygon.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "narrow",
+          "shut",
+          "close off",
+          "close up",
+          "cover",
+          "shut",
+          "shut off",
+          "close down",
+          "end",
+          "finish",
+          "terminate",
+          "wind up",
+          "close out",
+          "exit"
+        ],
+        "antonyms": [
+          "extend",
+          "widen",
+          "open",
+          "open",
+          "begin",
+          "commence",
+          "initiate",
+          "start",
+          "open",
+          "start"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "phonetics": [
+      {
+        "text": "/fɪʃ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75899420",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/fɘʃ/",
+        "audio": ""
+      },
+      {
+        "text": "/fɪʃ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014441",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/fɪʃ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=268383"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Salmon is a fish."
+          },
+          {
+            "definition": "Any animal (or any vertebrate) that lives exclusively in water.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The flesh of the fish used as food.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The seafood pasta had lots of fish but not enough pasta."
+          },
+          {
+            "definition": "A card game in which the object is to obtain cards in pairs or sets of four (depending on the variation), by asking the other players for cards of a particular rank.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A woman.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An easy victim for swindling.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A bad poker player. Compare shark (a good poker player).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A makeshift overlapping longitudinal brace, originally shaped roughly like a fish, used to temporarily repair or extend a spar or mast of a ship.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A purchase used to fish the anchor.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A torpedo.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A paraphyletic grouping of the following extant taxonomic groups:",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The thirty-fourth Lenormand card.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["donk", "donkey", "Go Fish", "mark"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "word": "if",
+    "phonetic": "/ɪf/",
+    "phonetics": [
+      {
+        "text": "/ɪf/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/if-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1217866",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An uncertainty, possibility, condition, doubt etc.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definitions": [
+          {
+            "definition": "Supposing that, assuming that, in the circumstances that; used to introduce a condition or choice.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "If it rains, I shall get wet."
+          },
+          {
+            "definition": "In the event that a statement is true (a programming statement that acts in a similar manner).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "If A, then B, else C."
+          },
+          {
+            "definition": "Supposing that; used with past or past perfect subjunctive indicating that the condition is closed.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I would be unhappy if you had not talked with me yesterday."
+          },
+          {
+            "definition": "Supposing that; given that; supposing it is the case that.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "If that's true, we had better get moving!"
+          },
+          {
+            "definition": "Although; used to introduce a concession.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He was a great friend, if a little stingy at the bar."
+          },
+          {
+            "definition": "(sometimes proscribed) Whether; used to introduce a noun clause, an indirect question, that functions as the direct object of certain verbs.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I don't know if I want to go or not."
+          },
+          {
+            "definition": "(usually hyperbolic) Even if; even in the circumstances that.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Introducing a relevance conditional.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I have leftover cake if you want some."
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "book",
+    "phonetic": "/buːk/",
+    "phonetics": [
+      {
+        "text": "/buːk/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/book-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014290",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/buːk/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/book-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=380110"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He was frustrated because he couldn't find anything about dinosaurs in the book."
+          },
+          {
+            "definition": "A long work fit for publication, typically prose, such as a novel or textbook, and typically published as such a bound collection of sheets, but now sometimes electronically as an e-book.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I have three copies of his first book."
+          },
+          {
+            "definition": "A major division of a long work.",
+            "synonyms": ["tome", "volume"],
+            "antonyms": [],
+            "example": "Genesis is the first book of the Bible."
+          },
+          {
+            "definition": "A record of betting (from the use of a notebook to record what each person has bet).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I'm running a book on who is going to win the race."
+          },
+          {
+            "definition": "A convenient collection, in a form resembling a book, of small paper items for individual use.",
+            "synonyms": ["booklet"],
+            "antonyms": [],
+            "example": "a book of raffle tickets"
+          },
+          {
+            "definition": "The script of a musical or opera.",
+            "synonyms": ["libretto"],
+            "antonyms": []
+          },
+          {
+            "definition": "(usually in the plural) Records of the accounts of a business.",
+            "synonyms": ["account", "record"],
+            "antonyms": []
+          },
+          {
+            "definition": "A book award, a recognition for receiving the highest grade in a class (traditionally an actual book, but recently more likely a letter or certificate acknowledging the achievement).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(whist) Six tricks taken by one side.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Four of a kind",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A document, held by the referee, of the incidents happened in the game.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(by extension) A list of all players who have been booked (received a warning) in a game.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The twenty-sixth Lenormand card.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Any source of instruction.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "account",
+          "record",
+          "booklet",
+          "libretto",
+          "tome",
+          "volume"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "card",
+    "phonetic": "/kaːd/",
+    "phonetics": [
+      {
+        "text": "/kaːd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/card-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75899773",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/kɐːd/",
+        "audio": ""
+      },
+      {
+        "text": "/kɑːd/",
+        "audio": ""
+      },
+      {
+        "text": "/kɑɹd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/card-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=631181",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A playing card.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(in the plural) Any game using playing cards; a card game.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He played cards with his friends."
+          },
+          {
+            "definition": "A resource or an argument, used to achieve a purpose.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He accused them of playing the race card."
+          },
+          {
+            "definition": "Any flat, normally rectangular piece of stiff paper, plastic etc.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A map or chart.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An amusing or entertaining person, often slightly eccentrically so.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A list of scheduled events or of performers or contestants.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "What’s on the card for tonight?"
+          },
+          {
+            "definition": "A tabular presentation of the key statistics of an innings or match: batsmen’s scores and how they were dismissed, extras, total score and bowling figures.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A removable electronic device that may be inserted into a powered electronic device to provide additional capability.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He needed to replace the card his computer used to connect to the internet."
+          },
+          {
+            "definition": "A greeting card.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "She gave her neighbors a card congratulating them on their new baby."
+          },
+          {
+            "definition": "A business card.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The realtor gave me her card so I could call if I had any questions about buying a house."
+          },
+          {
+            "definition": "Title card / Intertitle: A piece of filmed, printed text edited into the midst of the photographed action at various points, generally to convey character dialogue or descriptive narrative material related to the plot.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A test card.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A published note, containing a brief statement, explanation, request, expression of thanks, etc.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to put a card in the newspapers"
+          },
+          {
+            "definition": "A printed programme.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(by extension) An attraction or inducement.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "This will be a good card for the last day of the fair."
+          },
+          {
+            "definition": "A paper on which the points of the compass are marked; the dial or face of the mariner's compass.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A perforated pasteboard or sheet-metal plate for warp threads, making part of the Jacquard apparatus of a loom.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An indicator card.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To check IDs, especially against a minimum age requirement.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I heard you don't get carded at the other liquor store."
+          },
+          {
+            "definition": "To play cards.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To make (a stated score), as recorded on a scoring card.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "McIlroy carded a stellar nine-under-par 61 in the final round."
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "word": "mouth",
+    "phonetic": "/mʌʊθ/",
+    "phonetics": [
+      {
+        "text": "/mʌʊθ/",
+        "audio": ""
+      },
+      {
+        "text": "/maʊθ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mouth-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023253",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/maʊθ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mouth-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=398188",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The opening of a creature through which food is ingested.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "\"Open your mouth and say 'aah',\" directed the doctor."
+          },
+          {
+            "definition": "The end of a river out of which water flows into a sea or other large body of water.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The mouth of the river is a good place to go birdwatching in spring and autumn."
+          },
+          {
+            "definition": "An outlet, aperture or orifice.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The mouth of a cave"
+          },
+          {
+            "definition": "A loud or overly talkative person.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "My kid sister is a real mouth; she never shuts up."
+          },
+          {
+            "definition": "(saddlery) The crosspiece of a bridle bit, which enters the mouth of an animal.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A principal speaker; one who utters the common opinion; a mouthpiece.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Cry; voice.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Speech; language; testimony.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A wry face; a grimace; a mow.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To speak; to utter.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He mouthed his opinions on the subject at the meeting."
+          },
+          {
+            "definition": "To make the actions of speech, without producing sound.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The prompter mouthed the words to the actor, who had forgotten them."
+          },
+          {
+            "definition": "To utter with a voice that is overly loud or swelling.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To pick up or handle with the lips or mouth, but not chew or swallow.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The fish mouthed the lure, but didn't bite."
+          },
+          {
+            "definition": "To take into the mouth; to seize or grind with the mouth or teeth; to chew; to devour.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To form or cleanse with the mouth; to lick, as a bear licks her cub.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To make mouths at.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "word": "neck",
+    "phonetic": "/nɛk/",
+    "phonetics": [
+      {
+        "text": "/nɛk/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/neck-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1113652",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The part of the body connecting the head and the trunk found in humans and some animals.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Giraffes have long necks."
+          },
+          {
+            "definition": "The corresponding part in some other anatomical contexts.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The part of a shirt, dress etc., which fits a person's neck.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The tapered part of a bottle toward the opening.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The slender tubelike extension atop an archegonium, through which the sperm swim to reach the egg.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The extension of any stringed instrument on which a fingerboard is mounted",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A long narrow tract of land projecting from the main body, or a narrow tract connecting two larger tracts.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A reduction in size near the end of an object, formed by a groove around it.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "a neck forming the journal of a shaft"
+          },
+          {
+            "definition": "The constriction between the root and crown of a tooth.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The gorgerin of a capital.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The small part of a gun between the chase and the swell of the muzzle.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A person's life.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to risk one's neck; to save someone's neck"
+          },
+          {
+            "definition": "A falsehood; a lie.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Shapeshifting water spirits in Germanic mythology and folklore",
+            "synonyms": [
+              "Neck",
+              "Näcken",
+              "nicor",
+              "nix",
+              "nixie",
+              "nixy",
+              "nokk",
+              "nokken",
+              "näck"
+            ],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "Neck",
+          "Näcken",
+          "nicor",
+          "nix",
+          "nixie",
+          "nixy",
+          "nokk",
+          "nokken",
+          "näck"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To hang by the neck; strangle; kill, eliminate",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Go neck yourself."
+          },
+          {
+            "definition": "To make love; to intently kiss or cuddle; to canoodle.",
+            "synonyms": [
+              "French kiss",
+              "grope",
+              "pet",
+              "smooch",
+              "smoodge",
+              "snog",
+              "snuggle"
+            ],
+            "antonyms": [],
+            "example": "Alan and Betty were necking in the back of a car when Betty's dad caught them."
+          },
+          {
+            "definition": "To drink rapidly.",
+            "synonyms": ["chug"],
+            "antonyms": []
+          },
+          {
+            "definition": "To decrease in diameter.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "French kiss",
+          "grope",
+          "pet",
+          "smooch",
+          "smoodge",
+          "snog",
+          "snuggle",
+          "chug"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "word": "leg",
+    "phonetic": "/leɪɡ/",
+    "phonetics": [
+      {
+        "text": "/leɪɡ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leg-1-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75899874",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/lɛɡ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leg-1-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023190",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/lɛɡ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leg-1-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=876686",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A limb or appendage that an animal uses for support or locomotion.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "{{ux|en|Insects have six legs.}"
+          },
+          {
+            "definition": "In humans, the lower limb extending from the groin to the ankle.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Dan won't be able to come to the party, since he broke his leg last week and is now on crutches."
+          },
+          {
+            "definition": "The portion of the lower limb of a human that extends from the knee to the ankle.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A part of garment, such as a pair of trousers/pants, that covers a leg.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The left leg of these jeans has a tear."
+          },
+          {
+            "definition": "A rod-like protrusion from an inanimate object, supporting it from underneath.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "the legs of a chair or table"
+          },
+          {
+            "definition": "Something that supports.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "This observation is an important leg of my argument."
+          },
+          {
+            "definition": "A stage of a journey, race etc.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "After six days, we're finally in the last leg of our cross-country trip."
+          },
+          {
+            "definition": "A distance that a sailing vessel does without changing the sails from one side to the other.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "One side of a multiple-sided (often triangular) course in a sailing race.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A single game or match played in a tournament or other sporting contest.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "One of the two sides of a right triangle that is not the hypotenuse.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "One of the branches of a hyperbola or other curve which extend outward indefinitely.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(usually used in plural) The ability of something to persist or succeed over a long period of time.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "This proposal has no legs. Almost everyone opposes it."
+          },
+          {
+            "definition": "A disreputable sporting character; a blackleg.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An extension of a steam boiler downward, in the form of a narrow space between vertical plates, sometimes nearly surrounding the furnace and ash pit, and serving to support the boiler; called also water leg.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "In a grain elevator, the case containing the lower part of the belt which carries the buckets.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Denotes the half of the field on the same side as the batsman's legs; the left side for a right-handed batsman.",
+            "synonyms": ["on"],
+            "antonyms": ["off"],
+            "example": "Ponsonby-Smythe hit a thumping drive through the leg fielders."
+          },
+          {
+            "definition": "A branch or lateral circuit connecting an instrument with the main line.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A branch circuit; one phase of a polyphase system.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An underlying instrument of a derivatives strategy.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An army soldier assigned to a paratrooper unit who has not yet been qualified as a paratrooper.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A gesture of submission; a bow or curtsey. Chiefly in phrase make a leg.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["cathetus", "on"],
+        "antonyms": ["off"]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To remove the legs from an animal carcass.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To build legs onto a platform or stage for support.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To put a series of three or more options strikes into the stock market.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To apply force using the leg (as in 'to leg a horse').",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "word": "head",
+    "phonetic": "/hɛd/",
+    "phonetics": [
+      {
+        "text": "/hɛd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/head-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9021977",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/hɛd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/head-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=589483",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The part of the body of an animal or human which contains the brain, mouth and main sense organs.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Be careful when you pet that dog on the head; it may bite."
+          },
+          {
+            "definition": "The topmost, foremost, or leading part.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "What does it say at the head of the page?"
+          },
+          {
+            "definition": "(social, metonymy) A leader or expert.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A significant or important part.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Headway; progress.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "We are having a difficult time making head against this wind."
+          },
+          {
+            "definition": "Topic; subject.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "We will consider performance issues under the head of future improvements."
+          },
+          {
+            "definition": "Denouement; crisis.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "These isses are going to come to a head today."
+          },
+          {
+            "definition": "(fluid dynamics) Pressure and energy.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Fellatio or cunnilingus; oral sex.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "She gave great head."
+          },
+          {
+            "definition": "The glans penis.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A heavy or habitual user of illicit drugs.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Power; armed force.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "blow job",
+          "blowjob",
+          "fellatio",
+          "oral sex",
+          "headmaster",
+          "headmistress",
+          "principal",
+          "boss",
+          "chief",
+          "leader",
+          "mind",
+          "composure",
+          "poise",
+          "bonce",
+          "caput",
+          "loaf",
+          "noggin",
+          "noodle",
+          "nut",
+          "pate",
+          "top"
+        ],
+        "antonyms": [
+          "point",
+          "sharp",
+          "tip",
+          "subordinate",
+          "underling",
+          "base",
+          "bottom",
+          "foot",
+          "tail",
+          "underside"
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To be in command of. (See also head up.)",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Who heads the board of trustees?"
+          },
+          {
+            "definition": "To come at the beginning of; to commence.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "A group of clowns headed the procession."
+          },
+          {
+            "definition": "To strike with the head; as in soccer, to head the ball",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To move in a specified direction.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "How does the ship head?"
+          },
+          {
+            "definition": "To remove the head from a fish.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The salmon are first headed and then scaled."
+          },
+          {
+            "definition": "To originate; to spring; to have its course, as a river.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To form a head.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "This kind of cabbage heads early."
+          },
+          {
+            "definition": "To form a head to; to fit or furnish with a head.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to head a nail"
+          },
+          {
+            "definition": "To cut off the top of; to lop off.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to head trees"
+          },
+          {
+            "definition": "To behead; to decapitate.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To go in front of.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to head a drove of cattle"
+          },
+          {
+            "definition": "To get in the front of, so as to hinder or stop; to oppose.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The wind headed the ship and made progress difficult."
+          },
+          {
+            "definition": "(by extension) To check or restrain.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To set on the head.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "to head a cask"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Of, relating to, or intended for the head.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "word": "loop",
+    "phonetic": "/luːp/",
+    "phonetics": [
+      {
+        "text": "/luːp/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/loop-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=86957350",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A length of thread, line or rope that is doubled over to make an opening.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The opening so formed.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A shape produced by a curve that bends around and crosses itself.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Arches, loops, and whorls are patterns found in fingerprints."
+          },
+          {
+            "definition": "A ring road or beltway.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An endless strip of tape or film allowing continuous repetition.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A complete circuit for an electric current.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A programmed sequence of instructions that is repeated until or while a particular condition is satisfied.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An edge that begins and ends on the same vertex.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A path that starts and ends at the same point.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A bus or rail route, walking route, etc. that starts and ends at the same point.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A place at a terminus where trains or trams can turn round and go back the other way without having to reverse; a balloon loop, turning loop, or reversing loop.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A quasigroup with an identity element.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A loop-shaped intrauterine device.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An aerobatic maneuver in which an aircraft flies a circular path in a vertical plane.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A small, narrow opening; a loophole.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A flexible region in a protein's secondary structure.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A mass of iron in a pasty condition gathered into a ball for the tilt hammer or rolls.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "word": "girlfriend",
+    "phonetic": "/ˈɡɜːlfɹɛnd/",
+    "phonetics": [
+      {
+        "text": "/ˈɡɜːlfɹɛnd/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈɡɝlfɹɛnd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/girlfriend-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1235973",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A female partner in an unmarried romantic relationship.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Marc went to the park with his girlfriend and watched the sunset with her."
+          },
+          {
+            "definition": "A female friend.",
+            "synonyms": ["chickfriend"],
+            "antonyms": [],
+            "example": "Mary always enjoyed hanging out with her girlfriend Jessica."
+          }
+        ],
+        "synonyms": ["chickfriend"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "word": "sword",
+    "phonetic": "/sɔːd/",
+    "phonetics": [
+      {
+        "text": "/sɔːd/",
+        "audio": ""
+      },
+      {
+        "text": "/sɔɹd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sword-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1244086",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A long-bladed weapon with a hilt, and usually a pommel and cross-guard, which is designed to stab, slash, and/or hack.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A suit in the minor arcana in tarot.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A card of this suit.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "One of the end bars by which the lay of a hand loom is suspended.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The weapon, often used as a heraldic charge.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "word": "word",
+    "phonetic": "/wɜːd/",
+    "phonetics": [
+      {
+        "text": "/wɜːd/",
+        "audio": ""
+      },
+      {
+        "text": "/wɝd/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/word-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1197728",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Something like such a unit of language:",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The fact or act of speaking, as opposed to taking action. .",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Something that someone said; a comment, utterance; speech.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A watchword or rallying cry, a verbal signal (even when consisting of multiple words).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "mum's the word"
+          },
+          {
+            "definition": "A proverb or motto.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "News; tidings (used without an article).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Have you had any word from John yet?"
+          },
+          {
+            "definition": "An order; a request or instruction; an expression of will.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Don't fire till I give the word"
+          },
+          {
+            "definition": "A promise; an oath or guarantee.",
+            "synonyms": ["promise"],
+            "antonyms": [],
+            "example": "I give you my word that I will be there on time."
+          },
+          {
+            "definition": "A brief discussion or conversation.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Can I have a word with you?"
+          },
+          {
+            "definition": "(in the plural) See words.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "There had been words between him and the secretary about the outcome of the meeting."
+          },
+          {
+            "definition": "(sometimes Word) Communication from God; the message of the Christian gospel; the Bible, Scripture.",
+            "synonyms": ["Bible", "word of God"],
+            "antonyms": [],
+            "example": "Her parents had lived in Botswana, spreading the word among the tribespeople."
+          },
+          {
+            "definition": "(sometimes Word) Logos, Christ.",
+            "synonyms": ["God", "Logos"],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "Bible",
+          "word of God",
+          "God",
+          "Logos",
+          "promise",
+          "vocable"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To say or write (something) using particular words; to phrase (something).",
+            "synonyms": ["express", "phrase", "put into words", "state"],
+            "antonyms": [],
+            "example": "I’m not sure how to word this letter to the council."
+          },
+          {
+            "definition": "To flatter with words, to cajole.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To ply or overpower with words.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To conjure with a word.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To speak, to use words; to converse, to discourse.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["express", "phrase", "put into words", "state"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "Truth, indeed, that is the truth! The shortened form of the statement \"My word is my bond.\"",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "\"Yo, that movie was epic!\" / \"Word?\" (\"You speak the truth?\") / \"Word.\" (\"I speak the truth.\")"
+          },
+          {
+            "definition": "(stereotypically) An abbreviated form of word up; a statement of the acknowledgment of fact with a hint of nonchalant approval.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "sea",
+    "phonetic": "/siː/",
+    "phonetics": [
+      {
+        "text": "/siː/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large body of salt water.",
+            "synonyms": ["ogin"],
+            "antonyms": []
+          },
+          {
+            "definition": "A lake, especially if large or if salty or brackish.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The Caspian Sea, the Sea of Galilee, the Salton Sea, etc."
+          },
+          {
+            "definition": "The swell of the sea; a single wave; billow.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(in combination) Living or used in or on the sea; of, near, or like the sea.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Seaman, sea gauge, sea monster, sea horse, sea level, seaworthy, seaport, seaboard, etc."
+          },
+          {
+            "definition": "Anything resembling the vastness or turbulence of the sea.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A constant flux of gluons splitting into quarks, which annihilate to produce further gluons.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A large, dark plain of rock; a mare.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The Apollo 11 mission landed in the Sea of Tranquility."
+          },
+          {
+            "definition": "A very large lake of liquid hydrocarbon.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["ogin"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "rive",
+    "phonetic": "/ɹaɪv/",
+    "phonetics": [
+      {
+        "text": "/ɹaɪv/",
+        "audio": ""
+      },
+      {
+        "text": "/ɹaɪv/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rive-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=6087129",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A place torn; a rent; a rift.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["rent", "rift"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To tear apart by force; to rend; to split; to cleave.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To pierce or cleave with a weapon.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["cleave", "rend", "split"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "word": "phone",
+    "phonetic": "/fəʊ̯n/",
+    "phonetics": [
+      {
+        "text": "/fəʊ̯n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phone-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023306",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/foʊ̯n/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phone-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1224261",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To call (someone) using a telephone.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["call", "ring", "telephone"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "word": "letter",
+    "phonetic": "/-ɾə(ɹ)/",
+    "phonetics": [
+      {
+        "text": "/-ɾə(ɹ)/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈlɛtə(ɹ)/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/letter-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023194",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/-ɾɚ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/letter-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=876693",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A symbol in an alphabet.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "There are twenty-six letters in the English alphabet."
+          },
+          {
+            "definition": "A written or printed communication, generally longer and more formal than a note.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I wrote a letter to my sister about my life."
+          },
+          {
+            "definition": "The literal meaning of something, as distinguished from its intended and remoter meaning (often contrasted with the spirit).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(plural) Literature.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Benjamin Franklin was multiskilled – a scientist, politician and a man of letters."
+          },
+          {
+            "definition": "A division unit of a piece of law marked by a letter of the alphabet.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A size of paper, 8½ in × 11 in (215.9 mm × 279.4 mm, US paper sizes rounded to the nearest 5 mm).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A size of paper, 215 mm × 280 mm.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A single type; type, collectively; a style of type.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["bookstaff", "bookstave"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To print, inscribe, or paint letters on something.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(scholastic) To earn a varsity letter (award).",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An identifying initial of the academic institution that is awarded to a member of a varsity team. It is made from structured cloth, and intended to be sewn to a piece of clothing such as a varsity sweater or varsity jacket.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "phonetics": [
+      {
+        "text": "/ˈmjuːzɪk/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/music-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023256",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/ˈmjuzɪk/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/music-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1113632",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I keep listening to this music because it's a masterpiece."
+          },
+          {
+            "definition": "Any pleasing or interesting sounds.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An art form, created by organizing of pitch, rhythm, and sounds made using musical instruments and sometimes singing.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A guide to playing or singing a particular tune; sheet music.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Electronic signal jamming.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Heated argument.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Fun; amusement.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": ["melody", "vibe"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To seduce or entice with music.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "word": "those",
+    "phonetic": "/ðəʊz/",
+    "phonetics": [
+      {
+        "text": "/ðəʊz/",
+        "audio": ""
+      },
+      {
+        "text": "/ðoʊz/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/those-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1221228",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "(demonstrative) The thing, person, idea, quality, event, action or time indicated or understood from context, especially if more remote geographically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He went home, and after that I never saw him again."
+          },
+          {
+            "definition": "The known (thing); used to refer to something just said.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "They're getting divorced. What do you think about that?"
+          },
+          {
+            "definition": "(demonstrative) The aforementioned quality or proposition; used to emphatically affirm or deny a previous statement or question.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The water is so cold! — That it is."
+          },
+          {
+            "definition": "(relative) (plural that) Which, who; representing a subject, direct object, indirect object, or object of a preposition.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The CPR course that she took really came in handy."
+          },
+          {
+            "definition": "Used in place of relative adverbs such as where or when; often omitted.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "the last time that [= when] I went to Europe"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": ["here", "there", "this", "yon", "yonder"]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "word": "that",
+    "phonetic": "/ˈðæt/",
+    "phonetics": [
+      {
+        "text": "/ˈðæt/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈðæt/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈd̪æt/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈðɛt/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈðæt/",
+        "audio": ""
+      },
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/that-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=718785",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      },
+      {
+        "text": "/ˈðæt/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something being indicated that is there; one of those.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "(degree) To a given extent or degree.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "\"The ribbon was that thin.\" \"I disagree, I say it was not that thin, it was thicker... or maybe thinner...\""
+          },
+          {
+            "definition": "(degree) To a great extent or degree; very, particularly (in negative constructions).",
+            "synonyms": ["so"],
+            "antonyms": [],
+            "example": "I did the run last year, and it wasn't that difficult."
+          },
+          {
+            "definition": "To such an extent; so. (in positive constructions).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Ooh, I was that happy I nearly kissed her."
+          }
+        ],
+        "synonyms": ["so"],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "(demonstrative) The thing, person, idea, quality, event, action or time indicated or understood from context, especially if more remote geographically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He went home, and after that I never saw him again."
+          },
+          {
+            "definition": "The known (thing); used to refer to something just said.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "They're getting divorced. What do you think about that?"
+          },
+          {
+            "definition": "(demonstrative) The aforementioned quality or proposition; used to emphatically affirm or deny a previous statement or question.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The water is so cold! — That it is."
+          },
+          {
+            "definition": "(relative) (plural that) Which, who; representing a subject, direct object, indirect object, or object of a preposition.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The CPR course that she took really came in handy."
+          },
+          {
+            "definition": "Used in place of relative adverbs such as where or when; often omitted.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "the last time that [= when] I went to Europe"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": ["here", "there", "this", "yon", "yonder"]
+      },
+      {
+        "partOfSpeech": "conjunction",
+        "definitions": [
+          {
+            "definition": "Introducing a clause which is the subject or object of a verb (such as one involving reported speech), or which is a complement to a previous statement.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He told me that the book is a good read."
+          },
+          {
+            "definition": "Introducing a subordinate clause expressing a reason or cause: because, in that.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Be glad that you have enough to eat."
+          },
+          {
+            "definition": "Introducing a subordinate clause that expresses an aim, purpose or goal (\"final\"), and usually contains the auxiliaries may, might or should: so, so that.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Introducing — especially, but not exclusively, with an antecedent like so or such — a subordinate clause expressing a result, consequence or effect.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The noise was so loud that she woke up."
+          },
+          {
+            "definition": "Introducing a premise or supposition for consideration: seeing as; inasmuch as; given that; as would appear from the fact that.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Introducing a subordinate clause modifying an adverb.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "How often did she visit him? — Twice that I saw."
+          },
+          {
+            "definition": "Introducing an exclamation expressing a desire or wish.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Oh that spring would come!"
+          },
+          {
+            "definition": "Introducing an exclamation expressing a strong emotion such as sadness or surprise.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "word": "king",
+    "phonetic": "/kɪŋ/",
+    "phonetics": [
+      {
+        "text": "/kɪŋ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/king-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9027599",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/kiŋ/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/king-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=643251",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Henry VIII was the king of England from 1509 to 1547."
+          },
+          {
+            "definition": "A powerful or majorly influential person.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Howard Stern styled himself as the \"king of all media\"."
+          },
+          {
+            "definition": "Something that has a preeminent position.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "In times of financial panic, cash is king."
+          },
+          {
+            "definition": "A component of certain games.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A king skin.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Oi mate, have you got kings?"
+          },
+          {
+            "definition": "A male dragonfly; a drake.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A king-sized bed.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A male person.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To crown king, to make (a person) king.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To rule over as king.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To perform the duties of a king.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To assume or pretend preeminence (over); to lord it over.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To promote a piece of draughts/checkers that has traversed the board to the opposite side, that piece subsequently being permitted to move backwards as well as forwards.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To dress and perform as a drag king.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "word": "street",
+    "phonetic": "/stɹiːt/",
+    "phonetics": [
+      {
+        "text": "/stɹiːt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/street-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014225",
+        "license": {
+          "name": "BY 3.0 US",
+          "url": "https://creativecommons.org/licenses/by/3.0/us"
+        }
+      },
+      {
+        "text": "/ʃtɹiːt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/street-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1194278",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A paved part of road, usually in a village or a town.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Walk down the street until you see a hotel on the right."
+          },
+          {
+            "definition": "A road as above but including the sidewalks (pavements) and buildings.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I live on the street down from Joyce Avenue."
+          },
+          {
+            "definition": "The people who live in such a road, as a neighborhood.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The people who spend a great deal of time on the street in urban areas, especially, the young, the poor, the unemployed, and those engaged in illegal activities.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "An illicit or contraband source, especially of drugs.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I got some pot cheap on the street."
+          },
+          {
+            "definition": "Streetwise slang.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A great distance.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "He's streets ahead of his sister in all the subjects in school."
+          },
+          {
+            "definition": "Each of the three opportunities that players have to bet, after the flop, turn and river.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Living in the streets.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "a street cat; a street urchin"
+          },
+          {
+            "definition": "(urban toponymy) By restriction, the streets that run perpendicular to avenues.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To build or equip with streets.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To eject; to throw onto the streets.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(by extension) To heavily defeat.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To go on sale.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To proselytize in public.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Having street cred; conforming to modern urban trends.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  }
+]
