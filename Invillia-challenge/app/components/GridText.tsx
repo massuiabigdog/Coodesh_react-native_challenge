@@ -16,6 +16,7 @@ import { localStorageKeys } from "../utils";
 
 const GridText = (props: {
   providedList: IWord[] | undefined;
+  selectedWord?: IWord | undefined;
 
 }) => {
   const [data, setData] = useState<IWord[]>([]);
@@ -28,6 +29,12 @@ const GridText = (props: {
 
   const [isModalVisible, setModalVisible] = useState(false);
   const [modalWord, setModalWord] = useState([] as any);
+
+
+  // useEffect(() => {
+  //   if (props.selectedWord) alert(props.selectedWord.word)
+
+  //  }, [props.selectedWord]);
 
   // useEffect(() => {
   //   async function loadWords() {
@@ -54,7 +61,7 @@ const GridText = (props: {
 
   const openModalWithParam = (word: any) => {
     setModalWord(word); // Define o título do modal com o parâmetro
-    addWord(word);
+    // addWord(word);
     toggleModal(); // Abre o modal
   };
 
