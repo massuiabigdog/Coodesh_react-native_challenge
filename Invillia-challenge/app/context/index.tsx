@@ -16,10 +16,8 @@ export interface IWordsContext {
   addWord(word: IWord): void;
   newWords: IWord[];
   historyData: IWord[];
-  removeWord(id: string): void;
-  removeAllWords(): void;
   searchWord(word: string): void;
-  addFavorites(favoriteItem: any): void;
+  handleFavorites(favoriteItem: any): void;
   loading: boolean;
   favoritesWords: IWord[];
 }
@@ -92,31 +90,6 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
         throw new Error("An error occurred while saving word");
       }
     },
-    removeWord: async (id: string) => {
-      try {
-        const wordList = data.filter((word: any) => word.id !== id);
-        setData(wordList);
-        await AsyncStorage.setItem(
-          localStorageKeys.storeWord,
-          JSON.stringify(wordList)
-        );
-        triggerToast("Word removed!");
-      } catch (error) {
-        console.log("Error removing word", error);
-      }
-    },
-    removeAllWords: async () => {
-      try {
-        await AsyncStorage.setItem(
-          localStorageKeys.storeWord,
-          JSON.stringify([])
-        );
-        setData([]);
-        triggerToast("All words removed!");
-      } catch (error) {
-        console.log("Error removing all list", error);
-      }
-    },
     searchWord: async (word: string) => {
       try {
         const itemsInCache = await AsyncStorage.getItem(
@@ -151,7 +124,7 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
         triggerToast("Definition not found", true);
       }
     },
-    addFavorites: async (favoriteItem: any) => {
+    handleFavorites: async (favoriteItem: any) => {
       try {
         const checkRepeatedWord = favorites?.filter(
           (wordRepeated: IWord) =>
@@ -161,9 +134,9 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
           const wordList = data?.filter(
             (word: any) => word.id !== favoriteItem.id
           );
-          setData(wordList);
+          setFavorites(wordList);
           await AsyncStorage.setItem(
-            localStorageKeys.storeWord,
+            localStorageKeys.favoriteWords,
             JSON.stringify(wordList)
           );
           triggerToast("Word removed!");

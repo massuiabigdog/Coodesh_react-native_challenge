@@ -20,6 +20,7 @@ function Home() {
     const response = await searchWord(word);
     if (response !== undefined && response !== searchedWord) {
       setSearchedWord(response);
+      setWord("");
     }
     return 
   };

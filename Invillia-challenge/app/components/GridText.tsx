@@ -1,34 +1,21 @@
 import React, { useState, useEffect, useContext } from "react";
-import {
-  View,
-  FlatList,
-  StyleSheet,
-  TouchableOpacity,
-  Alert,
-  ScrollView,
-} from "react-native";
-import { Modal, CloseIcon, Box, Button, Text } from "native-base";
+import { FlatList, TouchableOpacity, ScrollView } from "react-native";
+import { Modal, Box, Button, Text, Spinner, Badge } from "native-base";
 import { IWord, UserContext } from "../context";
-import AsyncStorage from "@react-native-async-storage/async-storage";
-import Tts from "react-native-tts";
-import { localStorageKeys } from "../utils";
+import { useAudioPlayer } from "../hook/useAudioPlayer";
 
 const GridText = (props: {
   providedList: IWord[] | undefined;
   selectedWord?: IWord | undefined;
   clearSearch?: () => void;
 }) => {
+  const { addWord, handleFavorites, favoritesWords } = useContext(UserContext);
 
-  const { addWord, removeWord, addFavorites, favoritesWords } =
-    useContext(UserContext);
-
-  useContext(UserContext);
+  const { playSound, loadingAudio } = useAudioPlayer();
 
   const [modalWord, setModalWord] = useState(false as any);
   const [showModal, setShowModal] = useState(false as any);
   const [isFav, setIsFav] = useState(false);
-
-  console.log(modalWord, "modalWord")
 
   useEffect(() => {
     if (!!props.selectedWord && props.selectedWord !== modalWord) {
@@ -37,28 +24,10 @@ const GridText = (props: {
     }
   }, [props.selectedWord]);
 
-  // useEffect(() => {
-  //   setIsFav(selectedWorkIsFavorite(props.selectedWord));
-  // }, [favoritesWords]);
-
-  // useEffect(() => {
-  //   async function loadWords() {
-  //     const providedList = await AsyncStorage.getItem(localStorageKeys.storeWord);
-  //     const favoritWords = await AsyncStorage.getItem(
-  //       localStorageKeys.favoriteWords
-  //     );
-
-  //     if (providedList) {
-  //       setData(JSON.parse(providedList));
-  //     }
-  //     if (favoritWords) {
-  //       setFavorites(JSON.parse(favoritWords));
-  //     }
-  //   }
-  //   Tts.setDefaultRate(0.5); // Velocidade da fala (0.5 é metade da velocidade normal)
-  //   Tts.setDefaultPitch(1.0); // Tom da voz (1.0 é o tom padrão)
-  //   loadWords();
-  // }, [words, favorites]);
+  useEffect(() => {
+    const isFav = favoritesWords.find((word) => word.word === modalWord?.word);
+    setIsFav(isFav?.word === modalWord?.word);
+  }, [favoritesWords]);
 
   const openModalWithParam = (word: any) => {
     addWord(word);
@@ -66,14 +35,20 @@ const GridText = (props: {
     setShowModal(true);
   };
 
-  const closeModal = () => { 
+  const closeModal = () => {
     setShowModal(false);
-    props.clearSearch && props.clearSearch()
-  }
-
+    props.clearSearch && props.clearSearch();
+  };
 
   return (
     <>
+      {props.providedList?.length === 0 && (
+        <Box height='100%'>
+          <Text textAlign="center" margin="auto">
+            No words here yet!
+          </Text>
+        </Box>
+      )}
       <FlatList
         data={props.providedList}
         numColumns={3}
@@ -89,7 +64,15 @@ const GridText = (props: {
               onPress={() => openModalWithParam(item)}
             >
               <Box textAlign="center">
-                <Text textAlign="center">{item.word}</Text>
+                <Badge
+                  colorScheme="info"
+                  size="lg"
+                  w="100%"
+                  variant="outline"
+                  alignSelf="center"
+                >
+                  {item.word.charAt(0).toUpperCase() + item.word.slice(1)}
+                </Badge>
               </Box>
             </TouchableOpacity>
           </Box>
@@ -104,22 +87,19 @@ const GridText = (props: {
         size="lg"
       >
         <Modal.Content>
+          <Modal.CloseButton />
+          <Modal.Header>{modalWord?.word?.toUpperCase()}</Modal.Header>
           <Modal.Body>
-            <Modal.CloseButton />
-            <Modal.Header />
             <ScrollView style={{ flex: 1 }}>
-              <Box backgroundColor="blue.300" marginTop={4} padding={2}>
-                <Text fontSize="lg" textAlign="center" bold>
-                  {modalWord.word}
-                </Text>
-                <Text fontSize="sm" textAlign="center">
+              <Box backgroundColor="blue.300" padding={2}>
+                <Text fontSize="lg" bold textAlign="center">
                   {modalWord &&
                     modalWord.phonetics &&
                     modalWord.phonetics[0].text &&
                     modalWord.phonetics[0].text}
                 </Text>
               </Box>
-              <View>
+              <Box>
                 <Text bold fontSize="lg" marginBottom={1} marginTop={4}>
                   Meanings
                 </Text>
@@ -134,11 +114,17 @@ const GridText = (props: {
                       {meaning.definition}
                     </Text>
                   ))}
-                <Button onPress={() => addFavorites(modalWord)}>
-                  {isFav ? "remove from" : "Add to"}
-                  favorites
+                <Button onPress={() => handleFavorites(modalWord)}>
+                  {`${isFav ? "Remove from" : "Add to"} favorites`}
                 </Button>
-              </View>
+                <Button
+                  marginTop={4}
+                  variant="outline"
+                  onPress={() => playSound(modalWord)}
+                >
+                  {loadingAudio ? <Spinner /> : "Play the word"}
+                </Button>
+              </Box>
             </ScrollView>
           </Modal.Body>
         </Modal.Content>
