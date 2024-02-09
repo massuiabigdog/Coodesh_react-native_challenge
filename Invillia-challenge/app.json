@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "crowdformChallenge",
-    "slug": "crowdformChallenge",
+    "name": "invillia-challenge",
+    "slug": "invillia-challenge",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

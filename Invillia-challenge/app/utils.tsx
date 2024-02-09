@@ -19,5 +19,6 @@ export const isIos = Platform.OS === 'ios';
 
 export const localStorageKeys = {
     storeWord: '@StoreWord',
-    favoriteWords: '@FavoriteWords'
+    favoriteWords: '@FavoriteWords',
+    historyWords: '@HistoryWords'
 }

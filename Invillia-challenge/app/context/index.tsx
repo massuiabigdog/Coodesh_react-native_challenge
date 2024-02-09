@@ -5,22 +5,6 @@ import { localStorageKeys } from "../utils";
 
 export const UserContext = React.createContext({} as IWordsContext);
 
-export interface UserContextType {
-  transactions: Transaction[];
-  availableAmount: number;
-  transactionsAmount: number[];
-  sendMoney: (amount: number, contact: string) => void;
-}
-
-export interface Transaction {
-  id: string;
-  date: string;
-  isIncome: boolean;
-  label: string;
-  type: string;
-  amount: number;
-}
-
 export interface IWord {
   id: string;
   word: string;
@@ -31,7 +15,7 @@ export interface IWord {
 export interface IWordsContext {
   addWord(word: IWord): void;
   newWords: IWord[];
-  wordsHistory: IWord[];
+  historyData: IWord[];
   removeWord(id: string): void;
   removeAllWords(): void;
   searchWord(word: string): void;
@@ -44,21 +28,22 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
   const toast = useToast();
   const [data, setData] = useState<IWord[]>([]);
   const [storeData, setStoreData] = useState<IWord[]>([]);
+  const [historyData, setHistoryData] = useState<IWord[]>([]);
 
   const favoritesFromStorage = async () => {
     const favList = await AsyncStorage.getItem(localStorageKeys.favoriteWords);
     const storeList = await AsyncStorage.getItem(localStorageKeys.storeWord);
+    const historyList = await AsyncStorage.getItem(localStorageKeys.historyWords);
     if (favList) {
       setFavorites(JSON.parse(favList));
     }
     if (storeList) {
       setData(JSON.parse(storeList));
     }
+    if (historyList) {
+      setHistoryData(JSON.parse(historyList));
+    }
   };
-
-  useEffect(() => {
-    favoritesFromStorage();
-  }, []);
 
   useEffect(() => {
     favoritesFromStorage();
@@ -84,33 +69,25 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
         );
       },
     });
-  useEffect(async () => {
-    const getItemsInCache = async () => {
-      return await AsyncStorage.getItem(localStorageKeys.storeWord).then(
-        (res) => JSON.parse(res)
-      );
-    };
 
-    const itemsInCache = getItemsInCache();
-    setStoreData([...storeData, ...(await itemsInCache)]);
-
-    console.log(itemsInCache, "itemsInCache from context");
-  }, []);
   const userContextValue: IWordsContext = {
+    historyData,
     loading,
     favoritesWords: favorites,
-    wordsHistory: data,
     newWords: storeData,
     addWord: async (word: IWord) => {
       try {
-        const newWord = [...data, word];
-        // setData(newWord);
-        setStoreData([...storeData, word]);
+        const checkRepeatedWord = historyData?.filter(
+          (wordRepeated: IWord) =>
+            wordRepeated.word.toLowerCase() === word.word.toLowerCase()
+        );
+        if (checkRepeatedWord?.length > 0) return;
+        const newWord = [...historyData, word];
+        setHistoryData(newWord);
         await AsyncStorage.setItem(
-          localStorageKeys.storeWord,
+          localStorageKeys.historyWords,
           JSON.stringify(newWord)
         );
-        // triggerToast("Word Added!");
       } catch (error) {
         throw new Error("An error occurred while saving word");
       }
@@ -144,14 +121,13 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
       try {
         const itemsInCache = await AsyncStorage.getItem(
           localStorageKeys.storeWord
-        ).then((res) => JSON.parse(res));
+        ).then((res: any) => JSON.parse(res));
 
         const checkRepeatedWord = itemsInCache?.filter(
           (wordRepeated: IWord) =>
             wordRepeated?.word?.toLowerCase() === word?.toLowerCase()
         );
-        if (checkRepeatedWord.length > 0) return;
-        console.log("after checkRepeatedWord from context");
+        if (checkRepeatedWord?.length > 0) return checkRepeatedWord[0];
         setLoading(true);
         const response = await fetch(
           `https://api.dictionaryapi.dev/api/v2/entries/en_US/${word}`
@@ -161,17 +137,15 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
           throw new Error("Word not found");
         }
         const data = await response.json();
-        if (data.length) {
+        if (data?.length) {
           const newWord = [...data, word];
           setStoreData([...storeData, newWord[0]]);
-
           await AsyncStorage.setItem(
             localStorageKeys.storeWord,
             JSON.stringify([...storeData, newWord[0]])
           );
         }
-        return;
-        // }
+        return data[0];
       } catch (error: any) {
         console.log(error.message);
         triggerToast("Definition not found", true);
@@ -183,7 +157,7 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
           (wordRepeated: IWord) =>
             wordRepeated.word.toLowerCase() === favoriteItem.word.toLowerCase()
         );
-        if (checkRepeatedWord.length > 0) {
+        if (checkRepeatedWord?.length > 0) {
           const wordList = data?.filter(
             (word: any) => word.id !== favoriteItem.id
           );

@@ -6,32 +6,34 @@ import { GridText, MainHeader } from "../components";
 import WordList from "../mockedData/wordList.json";
 
 function Home() {
-  const { loading, searchWord, addWord, newWords } = useContext(UserContext);
+  const { loading, searchWord, newWords } = useContext(UserContext);
 
   const [word, setWord] = useState("");
   const [searchedWord, setSearchedWord] = useState<IWord>();
   const [errorAPI] = useState(null);
   const [list, setList] = useState<any>(WordList);
   useEffect(() => {
-    setList([...WordList, ...newWords]);
+    setList([ ...newWords, ...WordList]);
   }, [newWords]);
 
-  console.log(newWords, "newWords");
   const handleSearch = async (word: string) => {
     const response = await searchWord(word);
     if (response !== undefined && response !== searchedWord) {
       setSearchedWord(response);
     }
-    setWord("");
+    return 
   };
 
   return (
     <>
       <MainHeader label="Dictionary" />
 
-      <Box flexDirection="row">
-        <FormControl w="75%" maxW="300px">
+      <Box bg='blue.200' padding={3} marginBottom={4} flexDirection="row" >
+        <FormControl marginRight={2} maxW="300px" >
           <Input
+          marginTop='2px'
+          bgColor={'white'}
+          size='lg'
             onChangeText={setWord}
             value={word}
             editable={!loading}
@@ -48,7 +50,7 @@ function Home() {
           {errorAPI ? (
             <Text>Error fetching data. Please try again later.</Text>
           ) : (
-            <GridText selectedWord={searchedWord} providedList={list} />
+            <GridText clearSearch={() => setSearchedWord(undefined)} selectedWord={searchedWord} providedList={list} />
           )}
         </>
       )}
