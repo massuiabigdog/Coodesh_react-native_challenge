@@ -1,13 +1,17 @@
-import React, { useContext, useState } from "react";
-import { Dimensions } from "react-native";
-import { Box, ScrollView } from "native-base";
-import { UserContext } from "../context";
+import React, { useContext, useEffect, useState } from "react";
+import { IWord, UserContext } from "../context";
 import { GridText, MainHeader } from "../components";
 
-function Favorites({ navigation }: { navigation: any }) {
-  useContext(UserContext);
+function Favorites() {
   const { favoritesWords } = useContext(UserContext);
 
+  const [favoritesList, setFavoritesList] = useState<IWord[]>();
+  
+  useEffect(() => {
+    setFavoritesList(favoritesList);
+   } ,[favoritesList]);
+
+   console.log(favoritesList);
   return (
     <>
       <MainHeader label="Favorite words" />

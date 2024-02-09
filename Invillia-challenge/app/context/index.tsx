@@ -28,23 +28,20 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
   const [storeData, setStoreData] = useState<IWord[]>([]);
   const [historyData, setHistoryData] = useState<IWord[]>([]);
 
-  const favoritesFromStorage = async () => {
+  const handleItemsFromStorage = async () => {
     const favList = await AsyncStorage.getItem(localStorageKeys.favoriteWords);
     const storeList = await AsyncStorage.getItem(localStorageKeys.storeWord);
-    const historyList = await AsyncStorage.getItem(localStorageKeys.historyWords);
-    if (favList) {
-      setFavorites(JSON.parse(favList));
-    }
-    if (storeList) {
-      setData(JSON.parse(storeList));
-    }
-    if (historyList) {
-      setHistoryData(JSON.parse(historyList));
-    }
+    const historyList = await AsyncStorage.getItem(
+      localStorageKeys.historyWords
+    );
+    if (favList) setFavorites(JSON.parse(favList));
+    if (storeList) setData(JSON.parse(storeList));
+
+    if (historyList) setHistoryData(JSON.parse(historyList));
   };
 
   useEffect(() => {
-    favoritesFromStorage();
+    handleItemsFromStorage();
   }, []);
 
   const [favorites, setFavorites] = useState<IWord[]>([]);
@@ -128,11 +125,12 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
       try {
         const checkRepeatedWord = favorites?.filter(
           (wordRepeated: IWord) =>
-            wordRepeated.word.toLowerCase() === favoriteItem.word.toLowerCase()
+            wordRepeated?.word?.toLowerCase() ===
+            favoriteItem?.word?.toLowerCase()
         );
         if (checkRepeatedWord?.length > 0) {
           const wordList = data?.filter(
-            (word: any) => word.id !== favoriteItem.id
+            (word: any) => word?.id !== favoriteItem.id
           );
           setFavorites(wordList);
           await AsyncStorage.setItem(

@@ -22,12 +22,19 @@ const GridText = (props: {
       setModalWord(props.selectedWord);
       setShowModal(true);
     }
+    modalWord && wordIsFav(modalWord);
   }, [props.selectedWord]);
 
+  const wordIsFav = (word: IWord) => {
+    const searchWord = favoritesWords.find(
+      (word) => word?.word === modalWord?.word
+    );
+    setIsFav(word?.word === searchWord?.word);
+  };
+
   useEffect(() => {
-    const isFav = favoritesWords.find((word) => word.word === modalWord?.word);
-    setIsFav(isFav?.word === modalWord?.word);
-  }, [favoritesWords]);
+    wordIsFav(modalWord);
+  }, [favoritesWords, modalWord]);
 
   const openModalWithParam = (word: any) => {
     addWord(word);
@@ -37,13 +44,14 @@ const GridText = (props: {
 
   const closeModal = () => {
     setShowModal(false);
+    setIsFav(false)
     props.clearSearch && props.clearSearch();
   };
 
   return (
     <>
       {props.providedList?.length === 0 && (
-        <Box height='100%'>
+        <Box height="100%">
           <Text textAlign="center" margin="auto">
             No words here yet!
           </Text>
@@ -71,13 +79,14 @@ const GridText = (props: {
                   variant="outline"
                   alignSelf="center"
                 >
-                  {item.word.charAt(0).toUpperCase() + item.word.slice(1)}
+                  {item?.word?.charAt(0).toUpperCase() + item?.word?.slice(1)}
                 </Badge>
               </Box>
             </TouchableOpacity>
           </Box>
         )}
         keyExtractor={(item, index) => `${item.id}_${item.word}_${index}`}
+
         onEndReachedThreshold={0.1}
       />
       <Modal
