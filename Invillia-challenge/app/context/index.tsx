@@ -117,7 +117,6 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
         }
         return data[0];
       } catch (error: any) {
-        console.log(error.message);
         triggerToast("Definition not found", true);
       }
     },
@@ -148,7 +147,6 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
         );
         triggerToast("Word added to favorites!");
       } catch (error) {
-        console.log("error saving word", error as string);
         throw new Error("An error occurred while saving word");
       }
     },

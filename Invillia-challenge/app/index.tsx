@@ -1,17 +1,12 @@
 import { registerRootComponent } from "expo";
 
 import { AppNavigation } from "./config/Navigation";
-import { UserProvider } from './context';
-import AppLoading from 'expo-app-loading';
-import * as Font from 'expo-font';
-import { LogBox } from 'react-native';
-
-import { NativeBaseProvider,  extendTheme } from "native-base";
-import { useState } from "react";
+import { UserProvider } from "./context";
+import { LogBox } from "react-native";
+import { NativeBaseProvider, extendTheme } from "native-base";
 
 function App() {
-  LogBox.ignoreAllLogs();//Ignore all log notifications
-
+  LogBox.ignoreAllLogs(); //Ignore all log notifications
 
   const theme = extendTheme({
     colors: {
@@ -28,15 +23,13 @@ function App() {
         900: "#3629B7",
       },
     },
-
   });
-
 
   return (
     <NativeBaseProvider theme={theme}>
-        <UserProvider>
-          <AppNavigation />
-        </UserProvider>
+      <UserProvider>
+        <AppNavigation />
+      </UserProvider>
     </NativeBaseProvider>
   );
 }

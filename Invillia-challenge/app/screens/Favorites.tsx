@@ -11,7 +11,6 @@ function Favorites() {
     setFavoritesList(favoritesList);
    } ,[favoritesList]);
 
-   console.log(favoritesList);
   return (
     <>
       <MainHeader label="Favorite words" />

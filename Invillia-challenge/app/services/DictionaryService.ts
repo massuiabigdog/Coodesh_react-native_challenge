@@ -7,7 +7,6 @@ export const fetchWord = async (word: string) => {
     const {data} = await axios.get(`${BaseURL}/${word}`);
     return data;
   } catch (error) {
-    console.log('error fetching word', error);
     throw new Error('An error occurred when searching for words in the API');
   }
 };
