@@ -43,9 +43,9 @@ App to list English words, based on the Free Dictionary API.
 
 ##### Screens
 
-<img src="./img/emulator1" width="100%" />
-<img src="./img/emulator2.png" width="100%" />
-<img src="./img/emulator3.png" width="100%" />
+<img src="./img/emulator1.png" width="50%" />
+<img src="./img/emulator2.png" width="50%" />
+<img src="./img/emulator3.png" width="50%" />
 
 ##### Demo video
 https://github.com/massuiabigdog/Coodesh_react-native_challenge/assets/16282589/8767f9e4-c929-4a3d-805e-4b2376d39ed6
